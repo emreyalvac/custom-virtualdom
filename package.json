@@ -1,0 +1,16 @@
+{
+  "name": "custom-virtual-dom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^3.0.8"
+  },
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "dependencies": {
+    "webpack": "^4.29.5"
+  }
+}
